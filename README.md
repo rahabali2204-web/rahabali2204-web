@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahabali2204-web" alt="rahabali2204-web" /></a> </p>
 
-- 🔭 I’m currently working on **AI AGENT**
-
 - 👨‍💻 All of my projects are available at [https://rahabali2204-web.github.io/rahabali-portfolio/](https://rahabali2204-web.github.io/rahabali-portfolio/)
 
 - 📫 How to reach me **rahabali2204@gmail.com**
