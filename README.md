@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahab Ali</h1>
 <h3 align="center">AI Automation Enthusiast | Building AI-Powered Workflows & Smart Automation Solutions</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahabali2204-web&label=Profile%20views&color=0e75b6&style=flat" alt="rahabali2204-web" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://rahabali2204-web.github.io/rahabali-portfolio/](https://rahabali2204-web.github.io/rahabali-portfolio/)
 
