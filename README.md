@@ -2,8 +2,6 @@
 <h3 align="center">AI Automation Enthusiast | Building AI-Powered Workflows & Smart Automation Solutions</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahabali2204-web&label=Profile%20views&color=0e75b6&style=flat" alt="rahabali2204-web" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahabali2204-web" alt="rahabali2204-web" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://rahabali2204-web.github.io/rahabali-portfolio/](https://rahabali2204-web.github.io/rahabali-portfolio/)
 
 - 📫 How to reach me **rahabali2204@gmail.com**
